@@ -1,2 +1,2 @@
 # GenAI
-experimentation with some of my ideas with a hands on project
+experimentation with some of my learnings with a hands on project
